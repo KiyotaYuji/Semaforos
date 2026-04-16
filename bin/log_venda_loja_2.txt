@@ -1,0 +1,14 @@
+Cliente 3 comprou: Veiculo ID: 51 | Cor: Azul | Tipo: SEDAN | Estacao: 0 | Funcionario: 0 | Pos_Esteira_Fabrica: 10 | Loja: 2 | Pos_Esteira_Loja: 0
+Cliente 5 comprou: Veiculo ID: 52 | Cor: Vermelho | Tipo: SEDAN | Estacao: 0 | Funcionario: 3 | Pos_Esteira_Fabrica: 11 | Loja: 2 | Pos_Esteira_Loja: 1
+Cliente 9 comprou: Veiculo ID: 53 | Cor: Verde | Tipo: SEDAN | Estacao: 1 | Funcionario: 2 | Pos_Esteira_Fabrica: 12 | Loja: 2 | Pos_Esteira_Loja: 2
+Cliente 6 comprou: Veiculo ID: 55 | Cor: Vermelho | Tipo: SEDAN | Estacao: 0 | Funcionario: 3 | Pos_Esteira_Fabrica: 13 | Loja: 2 | Pos_Esteira_Loja: 3
+Cliente 5 comprou: Veiculo ID: 54 | Cor: Azul | Tipo: SUV | Estacao: 0 | Funcionario: 0 | Pos_Esteira_Fabrica: 14 | Loja: 2 | Pos_Esteira_Loja: 4
+Cliente 12 comprou: Veiculo ID: 56 | Cor: Verde | Tipo: SEDAN | Estacao: 1 | Funcionario: 2 | Pos_Esteira_Fabrica: 15 | Loja: 2 | Pos_Esteira_Loja: 5
+Cliente 9 comprou: Veiculo ID: 57 | Cor: Azul | Tipo: SUV | Estacao: 0 | Funcionario: 3 | Pos_Esteira_Fabrica: 16 | Loja: 2 | Pos_Esteira_Loja: 6
+Cliente 8 comprou: Veiculo ID: 58 | Cor: Vermelho | Tipo: SEDAN | Estacao: 0 | Funcionario: 0 | Pos_Esteira_Fabrica: 17 | Loja: 2 | Pos_Esteira_Loja: 7
+Cliente 14 comprou: Veiculo ID: 59 | Cor: Verde | Tipo: SUV | Estacao: 1 | Funcionario: 2 | Pos_Esteira_Fabrica: 18 | Loja: 2 | Pos_Esteira_Loja: 8
+Cliente 17 comprou: Veiculo ID: 60 | Cor: Azul | Tipo: SUV | Estacao: 0 | Funcionario: 3 | Pos_Esteira_Fabrica: 19 | Loja: 2 | Pos_Esteira_Loja: 9
+Cliente 16 comprou: Veiculo ID: 61 | Cor: Vermelho | Tipo: SEDAN | Estacao: 0 | Funcionario: 0 | Pos_Esteira_Fabrica: 20 | Loja: 2 | Pos_Esteira_Loja: 10
+Cliente 5 comprou: Veiculo ID: 62 | Cor: Verde | Tipo: SEDAN | Estacao: 1 | Funcionario: 2 | Pos_Esteira_Fabrica: 21 | Loja: 2 | Pos_Esteira_Loja: 11
+Cliente 6 comprou: Veiculo ID: 63 | Cor: Azul | Tipo: SEDAN | Estacao: 0 | Funcionario: 3 | Pos_Esteira_Fabrica: 22 | Loja: 2 | Pos_Esteira_Loja: 12
+Cliente 7 comprou: Veiculo ID: 64 | Cor: Vermelho | Tipo: SEDAN | Estacao: 0 | Funcionario: 0 | Pos_Esteira_Fabrica: 23 | Loja: 2 | Pos_Esteira_Loja: 13
